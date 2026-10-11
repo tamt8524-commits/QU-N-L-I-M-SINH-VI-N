@@ -45,7 +45,7 @@ def Xep_loai(diem_tong_ket):
   else:
     return "Yếu"
 df["Xếp loại sinh viên"] = df["điểm tổng kết"].apply(Xep_loai)
-display(df)
+st.dataframe(df)
 
 #4. Thống kê
 diem_tb = df["điểm tổng kết"].mean()
