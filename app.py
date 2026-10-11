@@ -65,3 +65,5 @@ if loai == "Tất cả":
     st.dataframe(df, hide_index=True, use_container_width=True)
 else:
     st.dataframe(df[df["Xếp loại"] == loai], hide_index=True, use_container_width=True)
+st.divider()
+st.caption("Người tạo: Trịnh Vĩnh Tâm | MSSV: 038208012383")
