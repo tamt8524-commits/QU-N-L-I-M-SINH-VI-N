@@ -91,4 +91,4 @@ plt.close(fig)
 
 # 8. Thông tin người tạo ở cuối trang
 st.divider()
-st.caption("Người tạo: Trịnh Vĩnh Tâm | MSSV: THAY_BANG_MSSV_CUA_EM")
+st.caption("Người tạo: Trịnh Vinh Tâm | MSSV: 038208012383")
