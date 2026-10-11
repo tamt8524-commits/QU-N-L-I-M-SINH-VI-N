@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/13dulnyTQsq4SegQnXQIq1HmvnN_QLs3y
 """
 
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
 #1. Tạo Frame
 import pandas as pd
 data = {
