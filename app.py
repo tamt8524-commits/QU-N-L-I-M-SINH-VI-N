@@ -9,7 +9,7 @@ st.title("QUẢN LÝ ĐIỂM SINH VIÊN")
 # 1. Dữ liệu 10 sinh viên
 data = {
     "Họ và Tên": [
-        "Trịnh Vĩnh Tâm", "Phan Lê Vy Thanh",
+        "Trịnh Vinh Tâm", "Phan Lê Vy Thanh",
         "Lê Dương Bảo Lâm", "Kiều Minh Tuấn",
         "Lâm Vĩ Dạ", "Alexander",
         "Trịnh Trần Phương Tuấn", "Ngô Kiến Huy",
