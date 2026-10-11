@@ -29,7 +29,7 @@ print(df)
 
 #2. Tính điểm tổng kết:
 df["điểm tổng kết"] = 0.2 * df['điểm chuyên cần'] + 0.3 * df['điểm giữa kì'] + 0.5 * df['điểm cuối kì']
-display (df)
+st.dataframe(df)
 
 #3. Xếp loại sinh viên
 def Xep_loai(diem_tong_ket):
